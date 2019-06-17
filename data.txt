@@ -1,0 +1,7 @@
+<xml>
+              <ToUserName><![CDATA[ofZ1O1M9PAZdXS0fPxNvSaLBuw9k]]></ToUserName>
+              <FromUserName><![CDATA[gh_a0c1848885e5]]></FromUserName>
+              <CreateTime>1557807895</CreateTime>
+              <MsgType><![CDATA[text]]></MsgType>
+              <Content><![CDATA[音乐]]></Content>
+            </xml>
